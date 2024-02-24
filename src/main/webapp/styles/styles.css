@@ -1,0 +1,21 @@
+#logovhsflix{
+    height: 3.5rem;
+}
+
+.animate-hover-card{
+    transition: transform 0.2s ease-in;
+}
+
+.animate-hover-card:hover{
+    cursor: pointer;
+    transform: scale(1.03);
+}
+
+#descripcion {
+    resize: none;
+    height: 150px;
+}
+
+#descripcion:focus-visible {
+    outline: none;
+}

@@ -1,0 +1,59 @@
+
+# Ignorar la clase conexion
+/src/main/java/data/Conexion.java
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Build artifacts
+/build/
+/classes/
+/libs/
+
+# Dependencies
+/lib/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled bytecode
+*.class
+
+# Logs
+*.log
+
+# BlueJ
+.bluej/
+
+# Javadoc
+/javadoc/
+
+# Maven
+/target/
+
+# Gradle
+.gradle/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NetBeans additional configuration files
+nb-configuration.xml
+.nb-gradle
+
+# NetBeans workspace files
+nb-configuration.xml
+nbactions.xml
+nb-ide.log
+.nb-gradle/
